@@ -234,3 +234,129 @@ border-radius: 8px;
 .support_section>div:first-child>p:first-child{
     padding-left: 40px;
 }
+
+.instagram p:first-child{
+position: absolute;
+width: 180px;
+height: 48px;
+left: calc(50% - 180px/2);
+top: 3137px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+color: #272727;
+}
+
+.instagram p:last-child{
+position: absolute;
+width: 594px;
+height: 60px;
+left: calc(50% - 594px/2);
+top: 3209px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+text-align: center;
+color: rgba(39, 39, 39, 0.6);
+}
+
+.instagram {
+    margin-top: 100px;
+}
+
+.flower{
+    display:flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.flower>div:first-child{
+position: absolute;
+width: 342px;
+height: 396px;
+left: -732px;
+top: 3317px;
+background: url(1.jpg);
+}
+
+.flower>div:nth-child(2){
+position: absolute;
+width: 342px;
+height: 396px;
+left: -366px;
+top: 3317px;
+background: url(2.jpg);
+}
+
+.flower>div:nth-child(3){
+position: absolute;
+width: 342px;
+height: 396px;
+left: 0px;
+top: 3317px;
+background: url(9093093.jpg);
+}
+
+.flower>div:last-child{
+position: absolute;
+width: 342px;
+height: 396px;
+left: 366px;
+top: 3317px;
+background: url(4.jpg);
+}
+
+.deals img{
+position: absolute;
+width: 1440px;
+height: 449px;
+left: 317px;
+top: 3841px;
+}
+
+.deals>div p:first-child{
+position: absolute;
+width: 373px;
+height: 48px;
+left: 900px;
+top: 3963px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 800;
+font-size: 35px;
+line-height: 48px;
+color: #272727;
+}
+
+.container>input{
+position: absolute;
+padding: 0px 20px;
+width: 700px;
+height: 64px;
+left: 500px;
+top: 4120px;
+}
+
+.container button{
+position: absolute;
+width: 150px;
+height: 70px;
+left: 1270px;
+top: 4120px;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px 43px;
+position: absolute;
+background: #E55473;
+border-radius: 8px;
+}
+
+
+
+
